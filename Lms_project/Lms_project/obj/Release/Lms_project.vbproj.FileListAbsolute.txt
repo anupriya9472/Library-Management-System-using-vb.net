@@ -1,0 +1,35 @@
+C:\Users\anupr\AppData\Local\Temporary Projects\Lms_project\bin\Release\Lms_project.exe
+C:\Users\anupr\AppData\Local\Temporary Projects\Lms_project\bin\Release\Lms_project.pdb
+C:\Users\anupr\AppData\Local\Temporary Projects\Lms_project\bin\Release\Lms_project.xml
+C:\Users\anupr\AppData\Local\Temporary Projects\Lms_project\obj\Release\ResolveAssemblyReference.cache
+C:\Users\anupr\AppData\Local\Temporary Projects\Lms_project\obj\Release\Lms_project.Form1.resources
+C:\Users\anupr\AppData\Local\Temporary Projects\Lms_project\obj\Release\Lms_project.Form2.resources
+C:\Users\anupr\AppData\Local\Temporary Projects\Lms_project\obj\Release\Lms_project.Resources.resources
+C:\Users\anupr\AppData\Local\Temporary Projects\Lms_project\obj\Release\Lms_project.vbproj.GenerateResource.Cache
+C:\Users\anupr\AppData\Local\Temporary Projects\Lms_project\obj\Release\Lms_project.exe
+C:\Users\anupr\AppData\Local\Temporary Projects\Lms_project\obj\Release\Lms_project.xml
+C:\Users\anupr\AppData\Local\Temporary Projects\Lms_project\obj\Release\Lms_project.pdb
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\bin\Release\Lms_project.exe
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\bin\Release\Lms_project.pdb
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\bin\Release\Lms_project.xml
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\ResolveAssemblyReference.cache
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form1.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form2.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form3.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Resources.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.vbproj.GenerateResource.Cache
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.exe
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.xml
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.pdb
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form4.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form5.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form6.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form7.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form10.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form11.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form12.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form13.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form14.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form8.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\obj\Release\Lms_project.Form9.resources
+C:\Users\anupr\Documents\Visual Studio 2008\Projects\Lms_project\Lms_project\bin\Release\Lms_project.exe.config
